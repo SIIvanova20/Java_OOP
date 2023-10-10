@@ -1,0 +1,62 @@
+Изведете две съобщения в конзолата ''Hello Java!'' и под него ''This is another line''.
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        System.out.println("This is another line");
+    }
+}
+
+
+-------------------------------------------------
+
+Изведете числата от 1 до 5 на отделни редове в конзолата.
+
+class Numbers {
+    public static void main(String[] args) {
+        
+        for (int i = 1; i <= 5; i++)
+        {
+            //System.out.println("I printed this " + i + "time/s!!");
+            System.out.println(i);
+        }
+    }
+}
+
+
+-----------------------------------------------
+
+Създайте нов проект, с нов клас и изведете числата от 1 до 5, но този
+път на един и същ ред, разделени с интервал.
+
+
+class oneLineNumbers {
+    public static void main(String[] args) {
+        
+        for (int i = 1; i <= 5; i++)
+        {
+            System.out.print(i + " ");
+        }
+    }
+}
+
+
+
+
+-------------------------------------------------------------
+
+Модифицирайте предишната задача, така че да извежда три такива
+реда.
+
+
+class threeLineNumbers {
+    public static void main(String[] args) {
+        for (int j = 0; j < 3; j ++)
+        {
+            for (int i = 1; i <= 5; i++)
+            {
+                System.out.print( i + " ");
+            }
+            System.out.print("\n");
+        }
+}
