@@ -5,14 +5,15 @@ This repository has been set up specifically to organize and retain all assignme
 
 <details> <summary>Date </summary>
 
-Projects:  <details> <summary>Project name</summary>
+Projects:  
+<details> <summary>Project name</summary>
 
 Files:
  <details>
     <summary>Class name</summary>
     code
   </details>
-
+</details>
 </details>
 
 <br>
