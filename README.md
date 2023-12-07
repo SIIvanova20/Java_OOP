@@ -1,6 +1,20 @@
 # Java OOP Classwork
 This repository has been set up specifically to organize and retain all assignments and tasks given in our Java Object-Oriented Programming classes. It's designed as a comprehensive resource, facilitating convenient reference and detailed review.
 
+## Quick look around of the repository:
+
+<details> <summary>Date </summary>
+
+Projects:  <details> <summary>Project name</summary>
+
+Files:
+ <details>
+    <summary>Class name</summary>
+    code
+  </details>
+
+</details>
+
 <br>
  
 ## Installation
