@@ -191,6 +191,40 @@ Files:
 
 </details>
 
+<details> <summary>12.12.2023 </summary>
+
+Projects:  
+<details> <summary>Project</summary>
+
+Files:
+ <details>
+    <summary>Main</summary>
+    https://github.com/SIIvanova20/Java_OOP/blob/0bd948137d9fee590ff50bc862b68d966a37bfdd/classwork%2012.12.2023/Polymorphism/src/Main.java#L1-L20
+  </details>
+  <details>
+    <summary>Animal</summary>
+    https://github.com/SIIvanova20/Java_OOP/blob/0bd948137d9fee590ff50bc862b68d966a37bfdd/classwork%2012.12.2023/Polymorphism/src/Animal.java#L1-L3
+  </details>
+  <details>
+    <summary>Mammal</summary>
+    https://github.com/SIIvanova20/Java_OOP/blob/0bd948137d9fee590ff50bc862b68d966a37bfdd/classwork%2012.12.2023/Polymorphism/src/Mammal.java#L1-L4
+  </details>
+  <details>
+    <summary>Dog</summary>
+    https://github.com/SIIvanova20/Java_OOP/blob/0bd948137d9fee590ff50bc862b68d966a37bfdd/classwork%2012.12.2023/Polymorphism/src/Dog.java#L1-L15
+  </details>
+  <details>
+    <summary>Puppy</summary>
+    https://github.com/SIIvanova20/Java_OOP/blob/0bd948137d9fee590ff50bc862b68d966a37bfdd/classwork%2012.12.2023/Polymorphism/src/Puppy.java#L1-L6
+  </details>
+  <details>
+    <summary>Calculator</summary>
+    https://github.com/SIIvanova20/Java_OOP/blob/0bd948137d9fee590ff50bc862b68d966a37bfdd/classwork%2012.12.2023/Polymorphism/src/Calculator.java#L1-L17
+  </details>
+</details>
+</details>
+
+
 
 <br>
  
