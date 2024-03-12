@@ -227,7 +227,7 @@ Files:
 <details> <summary>13.02.2024 </summary>
 
 Projects:  
-<details> <summary>Project</summary>
+<details> <summary>Printer</summary>
 
 Files:
  <details>
@@ -241,6 +241,25 @@ Files:
   
 </details>
 </details>
+
+<details> <summary>21.02.2024 </summary>
+
+Projects:  
+<details> <summary>Rectangle</summary>
+
+Files:
+ <details>
+    <summary>Main</summary>
+    https://github.com/SIIvanova20/Java_OOP/blob/994976284d3f3b24287a7d7b29c178da88beff15/classwork%2021.02.2024/Rectangle/src/Main.java#L1-L12
+  </details>
+  <details>
+    <summary>Rectangle</summary>
+    https://github.com/SIIvanova20/Java_OOP/blob/994976284d3f3b24287a7d7b29c178da88beff15/classwork%2021.02.2024/Rectangle/src/Rectangle.java#L1-L13
+  </details>
+  
+</details>
+</details>
+
 </details>
 
 <br>
